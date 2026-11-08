@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "fprintd-snap",
+  "versions": [
+    {
+      "commit": "91f564a46b0ccad88502cac8e0a89ca4d34bded6",
+      "parsed_at": "2026-11-08T19:07:14.454639+00:00",
+      "tag": "desktop-26-latest",
+      "filetree": "filetree/91f564a46b0ccad88502cac8e0a89ca4d34bded6.nq.gz",
+      "blobs": [
+        "blob/05872d3bd2658094d655e00b9650d474c6948a1b.nq.gz",
+        "blob/2051c072ac41adc0af5ca2e4de138e337d407737.nq.gz",
+        "blob/694d0f26d29cb17f52f5e7c714a9f30e1d2b13cd.nq.gz",
+        "blob/e5f64e229ea486f95677c18babdc667537559e83.nq.gz",
+        "blob/2ba6d99bb74b129f8addd1124566a508b9cfff45.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
